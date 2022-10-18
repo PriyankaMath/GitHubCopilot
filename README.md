@@ -1,14 +1,11 @@
-# Assignment 1
+# Assignment 2
 
-## Part A
-1. Keras based neural network model on Logical XOR Dataset
-2. Simple neual network using Pytorch by generating random input and output
-### Video link:
-https://drive.google.com/file/d/1-0cLfJUht-94ZEpSHzaqSc4hxygt-P6v/view?usp=sharing
+## a) Do graph level prediction using GAT/GCN
+Colab Link: https://colab.research.google.com/drive/1aT1y3Gx2p0CQi0JDzfhVINhq-Uos1xoE?usp=sharing
 
-## Part B
-Images created with creative inputs using interesting online AI demos
+## b) Do a Node classification using GAT/GCN
+Colab Link: https://colab.research.google.com/drive/1sJHxZ_DnZGVOar2yQkD-168JoDVV9nbe?usp=sharing
 
-PPT Link: https://docs.google.com/presentation/d/1T-3ucK6S1NuvS6DGcBSeF9LlKxmlzq2yLnGee_TPj3Q/edit?usp=sharing
-### Video link:
-https://drive.google.com/file/d/1ggGPGbDH8cy_e0KZ8ysNQsCWJ0VxfFDw/view?usp=sharing
+## c) Do an link  prediction of graph
+Colab Link: https://colab.research.google.com/drive/1DsPdEirHFekazOOzvDoK1sFLIInxoaes?usp=sharing
+
