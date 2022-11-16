@@ -1,14 +1,14 @@
-# Assignment 1
+# Assignment 5: Continual ML and Active Learning
 
-## Part A
-1. Keras based neural network model on Logical XOR Dataset
-2. Simple neual network using Pytorch by generating random input and output
-### Video link:
-https://drive.google.com/file/d/1-0cLfJUht-94ZEpSHzaqSc4hxygt-P6v/view?usp=sharing
+## Part A - Continual Learning using Avalanche library
+### SimpleMLP modeling on PermutedMNIST dataset
+ Colab Link: https://colab.research.google.com/drive/1XFFrTJaJChFkwuiaKVjekZx37-zMj5At?usp=sharing
 
-## Part B
-Images created with creative inputs using interesting online AI demos
 
-PPT Link: https://docs.google.com/presentation/d/1T-3ucK6S1NuvS6DGcBSeF9LlKxmlzq2yLnGee_TPj3Q/edit?usp=sharing
-### Video link:
-https://drive.google.com/file/d/1ggGPGbDH8cy_e0KZ8ysNQsCWJ0VxfFDw/view?usp=sharing
+## Part B - Active Learning with lightly.ai end2end
+###  Active learning for classification of [clothing dataset](https://github.com/alexeygrigorev/clothing-dataset-small)
+Colab Link: https://colab.research.google.com/drive/179eJxFZks4AwGQ3yg8ooGBdc3w6VdhfX?usp=sharing
+
+## Part C - Active Learning with label studio
+### Image classification with Active Learning using label studio for Data Annotation on [Natural Images](https://www.kaggle.com/datasets/prasunroy/natural-images?resource=download)
+Colab Link: https://colab.research.google.com/drive/1XM1o6nKQtBSdT_r9lYw4MaYiP1wegiLH?usp=sharing
